@@ -9,6 +9,7 @@ Inspiration
 
 ## Aral Sea, Kazakhstan and Uzbekistan
 
-1991 | 2021
-- | - 
-![Aral Sea 1991](aral_sea_1991.png 'Aral Sea 1991') | ![Aral Sea 2021](aral_sea_2021.png 'Aral Sea 2021')
+<table><tr>
+<td> <img src="aral_sea_1991.png" width="200" height="200" /> </td>
+<td> <img src="aral_sea_2021.png" width="200" height="200" /> </td>
+</tr></table>
