@@ -80,4 +80,4 @@ ui.root.add(splitPanel);
 var linker = ui.Map.Linker([leftMap, rightMap]);
 
 // set map center to region of interest
-leftMap.setCenter(38.5, 30.1, 10);
+leftMap.setCenter(38.65, 30.15, 10);
