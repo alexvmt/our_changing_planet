@@ -21,8 +21,8 @@ Data
 		<th>2021</th>
 	</tr>
 	<tr>
-		<td> <img src="aral_sea_1991.png" style="max-width:100%;height:auto" /> </td>
-		<td> <img src="aral_sea_2021.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/aral_sea_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/aral_sea_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
 
@@ -34,8 +34,8 @@ Data
 		<th>2021</th>
 	</tr>
 	<tr>
-		<td> <img src="las_vegas_1991.png" style="max-width:100%;height:auto" /> </td>
-		<td> <img src="las_vegas_2021.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/las_vegas_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/las_vegas_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
 
@@ -47,8 +47,8 @@ Data
 		<th>2021</th>
 	</tr>
 	<tr>
-		<td> <img src="rio_branco_1991.png" style="max-width:100%;height:auto" /> </td>
-		<td> <img src="rio_branco_2021.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/rio_branco_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/rio_branco_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
 
@@ -60,7 +60,7 @@ Data
 		<th>2021</th>
 	</tr>
 	<tr>
-		<td> <img src="wadi_as_sirhan_1991.png" style="max-width:100%;height:auto" /> </td>
-		<td> <img src="wadi_as_sirhan_2021.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/wadi_as_sirhan_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/wadi_as_sirhan_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
