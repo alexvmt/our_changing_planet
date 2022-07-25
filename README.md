@@ -139,6 +139,19 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	</tr>
 </table>
 
+### Santa Cruz, Bolivia
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/santa_curz_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/santa_curz_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
 ## Agriculture
 
 ### Wadi As Sirhan, Saudi Arabia
@@ -167,6 +180,19 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	</tr>
 </table>
 
+### Machala, Ecuador
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/machala_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/machala_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
 ## Mining
 
 ### Coal mining in Hambacher Forst, Germany
@@ -179,5 +205,18 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	<tr>
 		<td> <img src="images/hambacher_forst_1991.png" style="max-width:100%;height:auto" /> </td>
 		<td> <img src="images/hambacher_forst_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+### Bauxite mining in Weipa, Australia
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/weipa_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/weipa_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
