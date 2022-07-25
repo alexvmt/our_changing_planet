@@ -147,8 +147,8 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 		<th>2021</th>
 	</tr>
 	<tr>
-		<td> <img src="images/santa_curz_1991.png" style="max-width:100%;height:auto" /> </td>
-		<td> <img src="images/santa_curz_2021.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/santa_cruz_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/santa_cruz_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
 
