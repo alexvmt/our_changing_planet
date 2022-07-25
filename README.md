@@ -15,7 +15,7 @@ Where does this leave us now? Well, instead of thinking of us being at the end, 
 
 It is thus our responsibility today to preserve planet Earth for all those humans that are yet to be born in the future to have a chance for a good life. Frankly, we should preserve nature for its own sake anyway.
 
-Below are a couple of examples of how humans changed planet Earth in the past 30 years from 1991 to 2021, including drying lakes, urban growth, deforestation, agriculture, mining, and creating artificial lakes.
+Below are a couple of examples of how humans changed planet Earth in the past 30 years from 1991 to 2021, including drying existing and creating new water bodies, urban growth, deforestation, agriculture, and mining.
 
 ### Inspiration
 
@@ -29,7 +29,9 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 - 1991: Landsat 5, surface reflectance, true color (RGB), yearly median composite, 30 m resolution
 - 2021: Landsat 8, surface reflectance, true color (RGB), yearly median composite, 30 m resolution
 
-## Drying of Aral Sea, Kazakhstan and Uzbekistan
+## Drying existing and creating new water bodies
+
+### Drying of Aral Sea, Kazakhstan and Uzbekistan
 
 <table>
 	<tr>
@@ -42,7 +44,48 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	</tr>
 </table>
 
-## Urban growth in Las Vegas, United States
+### Man-made Lake Nasser as a consequence of constructing the Aswan High Dam, Egypt
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/lake_nasser_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/lake_nasser_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+### Ataturk Dam, Turkey
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/ataturk_dam_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/ataturk_dam_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+### Three Gorges Dam, China
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/three_gorges_dam_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/three_gorges_dam_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+## Urban growth
+
+### Las Vegas, United States
 
 <table>
 	<tr>
@@ -55,7 +98,35 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	</tr>
 </table>
 
-## Deforestation in Rio Branco, Brasil
+### Dubai, United Arab Emirates
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/dubai_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/dubai_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+### Beijing, China
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/beijing_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/beijing_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+## Deforestation
+
+### Rio Branco, Brasil
 
 <table>
 	<tr>
@@ -68,7 +139,9 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	</tr>
 </table>
 
-## Agriculture in Wadi As Sirhan, Saudi Arabia
+## Agriculture
+
+### Wadi As Sirhan, Saudi Arabia
 
 <table>
 	<tr>
@@ -81,7 +154,22 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	</tr>
 </table>
 
-## Coal mining in Hambacher Forst, Germany
+### Anatolia, Turkey
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/anatolia_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/anatolia_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+## Mining
+
+### Coal mining in Hambacher Forst, Germany
 
 <table>
 	<tr>
@@ -91,18 +179,5 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	<tr>
 		<td> <img src="images/hambacher_forst_1991.png" style="max-width:100%;height:auto" /> </td>
 		<td> <img src="images/hambacher_forst_2021.png" style="max-width:100%;height:auto" /> </td>
-	</tr>
-</table>
-
-## Man-made Lake Nasser as a consequence of constructing the Aswan High Dam, Egypt
-
-<table>
-	<tr>
-		<th>1991</th>
-		<th>2021</th>
-	</tr>
-	<tr>
-		<td> <img src="images/lake_nasser_1991.png" style="max-width:100%;height:auto" /> </td>
-		<td> <img src="images/lake_nasser_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
