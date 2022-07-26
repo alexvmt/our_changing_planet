@@ -1,6 +1,6 @@
 # Our changing planet
 
-Humanity changes the face of planet Earth as well as its atmosphere. These changes have significant impact, amongst others, on ecosystems, biodiversity, climate and other humans.
+Humanity changes the face of planet Earth and in the process its atmosphere as well. These changes have significant impact, amongst others, on ecosystems, biodiversity, climate and other humans.
 
 Satellite images, such as those from the [Landsat](https://landsat.gsfc.nasa.gov/) missions, enable us to make these changes visible and monitor their development over time - for better or worse.
 
@@ -15,7 +15,11 @@ Where does this leave us now? Well, instead of thinking of us being at the end, 
 
 It is thus our responsibility today to preserve planet Earth for all those humans that are yet to be born in the future to have a chance for a good life. Frankly, we should preserve nature for its own sake anyway.
 
-Below are a couple of examples of how humans changed planet Earth in the past 30 years from 1991 to 2021, including drying existing and creating new water bodies, urban growth, deforestation, agriculture, and mining.
+Below are a couple of examples of how humans changed planet Earth in the past 30 years from 1991 to 2021, including drying lakes, building dams, urban growth, deforestation, agriculture, and mining.
+
+Oftentimes these impacts are intertwined - e.g. tropical rainforest is cut down to create place for plantations or growing settlements and lakes are dried or artificially created to provide water for agriculture or growing cities.
+
+If you have access to Google Earth Engine, you can use the scripts in this repository to create split panels in the Code Editor in order to better compare different images from 1991 and 2021.
 
 ### Inspiration
 
@@ -29,9 +33,9 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 - 1991: Landsat 5, surface reflectance, true color (RGB), yearly median composite, 30 m resolution
 - 2021: Landsat 8, surface reflectance, true color (RGB), yearly median composite, 30 m resolution
 
-## Drying existing and creating new water bodies
+## Drying lakes
 
-### Drying of Aral Sea, Kazakhstan and Uzbekistan
+### Aral Sea, Kazakhstan and Uzbekistan
 
 <table>
 	<tr>
@@ -43,6 +47,21 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 		<td> <img src="images/aral_sea_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
+
+### Lake Powell, United States of America
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/lake_powell_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/lake_powell_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+## Building dams
 
 ### Man-made Lake Nasser as a consequence of constructing the Aswan High Dam, Egypt
 
@@ -85,7 +104,7 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 
 ## Urban growth
 
-### Las Vegas, United States
+### Las Vegas, United States of America
 
 <table>
 	<tr>
@@ -152,6 +171,19 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	</tr>
 </table>
 
+### Ciudad del Este, Paraguay
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/ciudad_del_este_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/ciudad_del_este_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
 ## Agriculture
 
 ### Wadi As Sirhan, Saudi Arabia
@@ -180,19 +212,6 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	</tr>
 </table>
 
-### Machala, Ecuador
-
-<table>
-	<tr>
-		<th>1991</th>
-		<th>2021</th>
-	</tr>
-	<tr>
-		<td> <img src="images/machala_1991.png" style="max-width:100%;height:auto" /> </td>
-		<td> <img src="images/machala_2021.png" style="max-width:100%;height:auto" /> </td>
-	</tr>
-</table>
-
 ## Mining
 
 ### Coal mining in Hambacher Forst, Germany
@@ -218,5 +237,18 @@ Below are a couple of examples of how humans changed planet Earth in the past 30
 	<tr>
 		<td> <img src="images/weipa_1991.png" style="max-width:100%;height:auto" /> </td>
 		<td> <img src="images/weipa_2021.png" style="max-width:100%;height:auto" /> </td>
+	</tr>
+</table>
+
+### Copper mining in Bingham Canyon, United States of America
+
+<table>
+	<tr>
+		<th>1991</th>
+		<th>2021</th>
+	</tr>
+	<tr>
+		<td> <img src="images/bingham_canyon_1991.png" style="max-width:100%;height:auto" /> </td>
+		<td> <img src="images/bingham_canyon_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
