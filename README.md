@@ -1,4 +1,4 @@
-# Our changing planet
+# Our changing planet - exploring anthropogenic changes on planet Earth using Landsat 5 and 8
 
 Humanity changes the face of planet Earth and in the process its atmosphere as well. These changes have significant impact, amongst others, on ecosystems, biodiversity, climate and other humans.
 
@@ -17,21 +17,22 @@ It is thus our responsibility today to preserve planet Earth for all those human
 
 Below are a couple of examples of how humans changed planet Earth in the past 30 years from 1991 to 2021, including drying lakes, building dams, urban growth, deforestation, agriculture, and mining.
 
-Oftentimes these impacts are intertwined - e.g. tropical rainforest is cut down to create place for plantations or growing settlements and lakes are dried or artificially created to provide water for agriculture or growing cities.
+Oftentimes these impacts are intertwined - e. g. tropical rainforest is cut down to create place for plantations or growing settlements and lakes are dried or artificially created to provide water for agriculture or growing cities.
 
-If you have access to Google Earth Engine, you can use the scripts in this repository to create split panels in the Code Editor in order to better compare different images from 1991 and 2021.
+If you have access to Google Earth Engine, you can use the scripts in this repository to create split panels in the Code Editor in order to compare different images from 1991 and 2021 more closely.
 
-### Inspiration
+**Contents**
 
-- [Earth Then and Now](https://www.goodreads.com/book/show/27303880-earth-then-and-now) by Fred Pearce
-- [The Last Human – A Glimpse Into The Far Future](https://www.youtube.com/watch?v=LEENEFaVUzU) by Kurzgesagt
-- [Google Earth Engine Timelapse](https://earthengine.google.com/timelapse)
+- [Drying lakes](#drying-lakes)
+- [Building dams](#building-dams)
+- [Urban growth](#urban-growth)
+- [Deforestation](#deforestation)
+- [Agriculture](#agriculture)
+- [Mining](#mining)
+- [Inspiration](#inspiration)
+- [Data](#data)
 
-### Data
 
-- [Google Earth Engine Landsat Collection](https://developers.google.com/earth-engine/datasets/catalog/landsat)
-- 1991: Landsat 5, surface reflectance, true color (RGB), yearly median composite, 30 m resolution
-- 2021: Landsat 8, surface reflectance, true color (RGB), yearly median composite, 30 m resolution
 
 ## Drying lakes
 
@@ -60,6 +61,8 @@ If you have access to Google Earth Engine, you can use the scripts in this repos
 		<td> <img src="images/lake_powell_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
+
+
 
 ## Building dams
 
@@ -102,6 +105,8 @@ If you have access to Google Earth Engine, you can use the scripts in this repos
 	</tr>
 </table>
 
+
+
 ## Urban growth
 
 ### Las Vegas, United States of America
@@ -142,6 +147,8 @@ If you have access to Google Earth Engine, you can use the scripts in this repos
 		<td> <img src="images/beijing_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
+
+
 
 ## Deforestation
 
@@ -252,3 +259,19 @@ If you have access to Google Earth Engine, you can use the scripts in this repos
 		<td> <img src="images/bingham_canyon_2021.png" style="max-width:100%;height:auto" /> </td>
 	</tr>
 </table>
+
+
+
+## Inspiration
+
+- [Earth Then and Now](https://www.goodreads.com/book/show/27303880-earth-then-and-now) by Fred Pearce
+- [The Last Human – A Glimpse Into The Far Future](https://www.youtube.com/watch?v=LEENEFaVUzU) by Kurzgesagt
+- [Google Earth Engine Timelapse](https://earthengine.google.com/timelapse)
+
+
+
+## Data
+
+- [Google Earth Engine Landsat Collection](https://developers.google.com/earth-engine/datasets/catalog/landsat)
+- 1991: Landsat 5, surface reflectance, true color (RGB), yearly median composite, 30 m resolution
+- 2021: Landsat 8, surface reflectance, true color (RGB), yearly median composite, 30 m resolution
