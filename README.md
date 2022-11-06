@@ -1,8 +1,10 @@
-# Our changing planet - exploring anthropogenic changes on planet Earth using Landsat 5 and 8
+# Our changing planet - exploring anthropogenic changes on planet Earth using data from NASA's and USGS' Landsat 5 and 8 missions
 
-Humanity changes the face of planet Earth and in the process its atmosphere as well. These changes have significant impact, amongst others, on ecosystems, biodiversity, climate and other humans.
+Humanity changes the face of planet Earth and in the process its atmosphere as well.
+These changes have significant impact, amongst others, on ecosystems, biodiversity, climate and humans themselves.
 
-Satellite images, such as those from the [Landsat](https://landsat.gsfc.nasa.gov/) missions, enable us to make these changes visible and monitor their development over time - for better or worse.
+Satellite images, such as those from the [Landsat](https://landsat.gsfc.nasa.gov/) missions,
+enable us to make these changes visible and monitor their development over time - for better or worse.
 
 Kurzgesagt made a fascinating [video](https://www.youtube.com/watch?v=LEENEFaVUzU) on humanity recently. In a nutshell:
 
@@ -11,15 +13,21 @@ Kurzgesagt made a fascinating [video](https://www.youtube.com/watch?v=LEENEFaVUz
 - **The 8 billion people alive on the planet today represent 7% of all humans that have ever lived** - as many as were born in the first 150,000 years of human history.
 - The UN estimates that our numbers peak at 11 billion in 2100.
 
-Where does this leave us now? Well, instead of thinking of us being at the end, we could also see us as just at the beginning of human history with almost unfathomable numbers of humans yet to be born in the future.
+Where does this leave us now? Well, instead of thinking of us being at the end, we could also see us as just at the beginning of human history
+with almost unfathomable numbers of humans yet to be born in the future.
 
-It is thus our responsibility today to preserve planet Earth for all those humans that are yet to be born in the future to have a chance for a good life. Frankly, we should preserve nature for its own sake anyway.
+It is thus our responsibility today to preserve planet Earth for all those humans that are yet to be born in the future to have a chance for a good life.
+Frankly, we should preserve nature for its own sake anyway.
 
-Below are a couple of examples of how humans changed planet Earth in the past 30 years from 1991 to 2021, including drying lakes, building dams, urban growth, deforestation, agriculture, and mining.
+Below are a couple of examples of how humans changed planet Earth in the past 30 years from 1991 to 2021,
+including drying lakes, building dams, urban growth, deforestation, agriculture, and mining.
 
-Oftentimes these impacts are intertwined - e. g. tropical rainforest is cut down to create place for plantations or growing settlements and lakes are dried or artificially created to provide water for agriculture or growing cities.
+Oftentimes these impacts are intertwined - e. g. tropical rainforest is cut down to create place for plantations or growing settlements
+and lakes are dried or artificially created to provide water for agriculture or growing cities.
 
-If you have access to Google Earth Engine, you can use the scripts in this repository to create split panels in the Code Editor in order to compare different images from 1991 and 2021 more closely.
+If you have access to Google Earth Engine, you can use the scripts in this repository to create split panels in the Code Editor
+in order to compare different images from 1991 and 2021 more closely.
+The images constitute yearly surface reflectance median composites, using the RGB bands and a 30 m resolution.
 
 **Contents**
 
